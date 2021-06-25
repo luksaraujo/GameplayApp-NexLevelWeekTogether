@@ -81,7 +81,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <br />
 
 <div align="center">
-  <small>Desenvolvido por Lucas Araújo de Souza - Junho/2021</small>
+  <small>Desenvolvido por Lucas Araújo de Souza | Orientado por Rodrigo Gonçalves Santana - Junho/2021</small>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasarasouza/)](https://www.linkedin.com/in/lucasarasouza/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luks.araujo_/)](https://www.instagram.com/luks.araujo_/)
 </div>
